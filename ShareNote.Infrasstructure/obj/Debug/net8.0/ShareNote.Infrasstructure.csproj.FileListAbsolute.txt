@@ -1,0 +1,15 @@
+D:\MyProject\ShareNote\ShareNote\ShareNote.Infrasstructure\bin\Debug\net8.0\ShareNote.Infrasstructure.deps.json
+D:\MyProject\ShareNote\ShareNote\ShareNote.Infrasstructure\bin\Debug\net8.0\ShareNote.Infrasstructure.dll
+D:\MyProject\ShareNote\ShareNote\ShareNote.Infrasstructure\bin\Debug\net8.0\ShareNote.Infrasstructure.pdb
+D:\MyProject\ShareNote\ShareNote\ShareNote.Infrasstructure\bin\Debug\net8.0\ShareNote.Domain.dll
+D:\MyProject\ShareNote\ShareNote\ShareNote.Infrasstructure\bin\Debug\net8.0\ShareNote.Domain.pdb
+D:\MyProject\ShareNote\ShareNote\ShareNote.Infrasstructure\obj\Debug\net8.0\ShareNote.Infrasstructure.csproj.AssemblyReference.cache
+D:\MyProject\ShareNote\ShareNote\ShareNote.Infrasstructure\obj\Debug\net8.0\ShareNote.Infrasstructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProject\ShareNote\ShareNote\ShareNote.Infrasstructure\obj\Debug\net8.0\ShareNote.Infrasstructure.AssemblyInfoInputs.cache
+D:\MyProject\ShareNote\ShareNote\ShareNote.Infrasstructure\obj\Debug\net8.0\ShareNote.Infrasstructure.AssemblyInfo.cs
+D:\MyProject\ShareNote\ShareNote\ShareNote.Infrasstructure\obj\Debug\net8.0\ShareNote.Infrasstructure.csproj.CoreCompileInputs.cache
+D:\MyProject\ShareNote\ShareNote\ShareNote.Infrasstructure\obj\Debug\net8.0\ShareNot.CBB7D7D2.Up2Date
+D:\MyProject\ShareNote\ShareNote\ShareNote.Infrasstructure\obj\Debug\net8.0\ShareNote.Infrasstructure.dll
+D:\MyProject\ShareNote\ShareNote\ShareNote.Infrasstructure\obj\Debug\net8.0\refint\ShareNote.Infrasstructure.dll
+D:\MyProject\ShareNote\ShareNote\ShareNote.Infrasstructure\obj\Debug\net8.0\ShareNote.Infrasstructure.pdb
+D:\MyProject\ShareNote\ShareNote\ShareNote.Infrasstructure\obj\Debug\net8.0\ref\ShareNote.Infrasstructure.dll

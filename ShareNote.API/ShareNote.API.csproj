@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>8838b13c-2114-4ef9-a98a-44d7a076ae09</UserSecretsId>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.20.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ShareNote.Application\ShareNote.Application.csproj" />
+    <ProjectReference Include="..\ShareNote.Domain\ShareNote.Domain.csproj" />
+    <ProjectReference Include="..\ShareNote.Infrasstructure\ShareNote.Infrasstructure.csproj" />
+  </ItemGroup>
+
+</Project>

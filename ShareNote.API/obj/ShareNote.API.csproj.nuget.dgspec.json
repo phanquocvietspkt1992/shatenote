@@ -1,0 +1,298 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\MyProject\\ShareNote\\ShareNote\\ShareNote.API\\ShareNote.API.csproj": {}
+  },
+  "projects": {
+    "D:\\MyProject\\ShareNote\\ShareNote\\ShareNote.API\\ShareNote.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MyProject\\ShareNote\\ShareNote\\ShareNote.API\\ShareNote.API.csproj",
+        "projectName": "ShareNote.API",
+        "projectPath": "D:\\MyProject\\ShareNote\\ShareNote\\ShareNote.API\\ShareNote.API.csproj",
+        "packagesPath": "C:\\Users\\viet.phanq1\\.nuget\\packages\\",
+        "outputPath": "D:\\MyProject\\ShareNote\\ShareNote\\ShareNote.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\viet.phanq1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\MyProject\\ShareNote\\ShareNote\\ShareNote.Application\\ShareNote.Application.csproj": {
+                "projectPath": "D:\\MyProject\\ShareNote\\ShareNote\\ShareNote.Application\\ShareNote.Application.csproj"
+              },
+              "D:\\MyProject\\ShareNote\\ShareNote\\ShareNote.Domain\\ShareNote.Domain.csproj": {
+                "projectPath": "D:\\MyProject\\ShareNote\\ShareNote\\ShareNote.Domain\\ShareNote.Domain.csproj"
+              },
+              "D:\\MyProject\\ShareNote\\ShareNote\\ShareNote.Infrasstructure\\ShareNote.Infrasstructure.csproj": {
+                "projectPath": "D:\\MyProject\\ShareNote\\ShareNote\\ShareNote.Infrasstructure\\ShareNote.Infrasstructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.20.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\MyProject\\ShareNote\\ShareNote\\ShareNote.Application\\ShareNote.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MyProject\\ShareNote\\ShareNote\\ShareNote.Application\\ShareNote.Application.csproj",
+        "projectName": "ShareNote.Application",
+        "projectPath": "D:\\MyProject\\ShareNote\\ShareNote\\ShareNote.Application\\ShareNote.Application.csproj",
+        "packagesPath": "C:\\Users\\viet.phanq1\\.nuget\\packages\\",
+        "outputPath": "D:\\MyProject\\ShareNote\\ShareNote\\ShareNote.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\viet.phanq1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\MyProject\\ShareNote\\ShareNote\\ShareNote.Domain\\ShareNote.Domain.csproj": {
+                "projectPath": "D:\\MyProject\\ShareNote\\ShareNote\\ShareNote.Domain\\ShareNote.Domain.csproj"
+              },
+              "D:\\MyProject\\ShareNote\\ShareNote\\ShareNote.Infrasstructure\\ShareNote.Infrasstructure.csproj": {
+                "projectPath": "D:\\MyProject\\ShareNote\\ShareNote\\ShareNote.Infrasstructure\\ShareNote.Infrasstructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "NEST": {
+              "target": "Package",
+              "version": "[7.17.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\MyProject\\ShareNote\\ShareNote\\ShareNote.Domain\\ShareNote.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MyProject\\ShareNote\\ShareNote\\ShareNote.Domain\\ShareNote.Domain.csproj",
+        "projectName": "ShareNote.Domain",
+        "projectPath": "D:\\MyProject\\ShareNote\\ShareNote\\ShareNote.Domain\\ShareNote.Domain.csproj",
+        "packagesPath": "C:\\Users\\viet.phanq1\\.nuget\\packages\\",
+        "outputPath": "D:\\MyProject\\ShareNote\\ShareNote\\ShareNote.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\viet.phanq1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\MyProject\\ShareNote\\ShareNote\\ShareNote.Infrasstructure\\ShareNote.Infrasstructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MyProject\\ShareNote\\ShareNote\\ShareNote.Infrasstructure\\ShareNote.Infrasstructure.csproj",
+        "projectName": "ShareNote.Infrasstructure",
+        "projectPath": "D:\\MyProject\\ShareNote\\ShareNote\\ShareNote.Infrasstructure\\ShareNote.Infrasstructure.csproj",
+        "packagesPath": "C:\\Users\\viet.phanq1\\.nuget\\packages\\",
+        "outputPath": "D:\\MyProject\\ShareNote\\ShareNote\\ShareNote.Infrasstructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\viet.phanq1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\MyProject\\ShareNote\\ShareNote\\ShareNote.Domain\\ShareNote.Domain.csproj": {
+                "projectPath": "D:\\MyProject\\ShareNote\\ShareNote\\ShareNote.Domain\\ShareNote.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "NEST": {
+              "target": "Package",
+              "version": "[7.17.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

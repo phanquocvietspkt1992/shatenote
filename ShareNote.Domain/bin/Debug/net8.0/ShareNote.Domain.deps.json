@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ShareNote.Domain/1.0.0": {
+        "runtime": {
+          "ShareNote.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ShareNote.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+D:\MyProject\ShareNote\ShareNote\ShareNote.Domain\bin\Debug\net8.0\ShareNote.Domain.deps.json
+D:\MyProject\ShareNote\ShareNote\ShareNote.Domain\bin\Debug\net8.0\ShareNote.Domain.dll
+D:\MyProject\ShareNote\ShareNote\ShareNote.Domain\bin\Debug\net8.0\ShareNote.Domain.pdb
+D:\MyProject\ShareNote\ShareNote\ShareNote.Domain\obj\Debug\net8.0\ShareNote.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProject\ShareNote\ShareNote\ShareNote.Domain\obj\Debug\net8.0\ShareNote.Domain.AssemblyInfoInputs.cache
+D:\MyProject\ShareNote\ShareNote\ShareNote.Domain\obj\Debug\net8.0\ShareNote.Domain.AssemblyInfo.cs
+D:\MyProject\ShareNote\ShareNote\ShareNote.Domain\obj\Debug\net8.0\ShareNote.Domain.csproj.CoreCompileInputs.cache
+D:\MyProject\ShareNote\ShareNote\ShareNote.Domain\obj\Debug\net8.0\ShareNote.Domain.dll
+D:\MyProject\ShareNote\ShareNote\ShareNote.Domain\obj\Debug\net8.0\refint\ShareNote.Domain.dll
+D:\MyProject\ShareNote\ShareNote\ShareNote.Domain\obj\Debug\net8.0\ShareNote.Domain.pdb
+D:\MyProject\ShareNote\ShareNote\ShareNote.Domain\obj\Debug\net8.0\ref\ShareNote.Domain.dll
